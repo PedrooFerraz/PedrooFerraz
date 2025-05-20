@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.phflima.com"><img width="80%" alt="Hello, I'm Pedro" src="" /></a></p>
+<p align="center"><a href="https://www.phflima.com"><img width="80%" alt="Hello, I'm Pedro" src="./assets/Im Pedro.png" /></a></p>
 
 - 📫 How to reach me **pedro@phflima.com**
 
