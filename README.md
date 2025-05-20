@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">From Pixels to Perfection: My Frontend Adventure Begins</h3>
-
-
-- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **pedro@phflima.com**
 
