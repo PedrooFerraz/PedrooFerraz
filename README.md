@@ -55,15 +55,29 @@ I'm a self-taught passionate FullStack developer from Brasil
 <h2 align="center">Repositories</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/PedrooFerraz/2024-2-p3-tidai-pucflix" title="Pucflix"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PedrooFerraz&repo=2024-2-p3-tidai-pucflix&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="right" href="https://github.com/PedrooFerraz/Rerserva-de-Quartos-de-Hotel-JavaRMI-Swing" title="Reserva de Hoteis Java RMI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PedrooFerraz&repo=Rerserva-de-Quartos-de-Hotel-JavaRMI-Swing&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/PedrooFerraz/2024-2-p3-tidai-pucflix" title="Pucflix">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PedrooFerraz&repo=2024-2-p3-tidai-pucflix&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+
+  <a align="right" href="https://github.com/PedrooFerraz/Rerserva-de-Quartos-de-Hotel-JavaRMI-Swing" title="Reserva de Hoteis Java RMI">
+  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PedrooFerraz&repo=Rerserva-de-Quartos-de-Hotel-JavaRMI-Swing&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+
 </div>
+
+
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/PedrooFerraz/2PC" title="2PC Protocol Node"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PedrooFerraz&repo=2PC&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="right" href="https://github.com/PedrooFerraz/Gravador--Electron-" title="Voice Recorder Electron"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PedrooFerraz&repo=Gravador--Electron-&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/PedrooFerraz/2PC" title="2PC Protocol Node">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PedrooFerraz&repo=2PC&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+
+  <a align="right" href="https://github.com/PedrooFerraz/Gravador--Electron-" title="Voice Recorder Electron">
+  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PedrooFerraz&repo=Gravador--Electron-&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+
 </div>
 <br/><br/><br/><br/><br/><br/>
 
